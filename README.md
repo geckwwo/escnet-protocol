@@ -38,7 +38,9 @@ All these "every N minutes" aren't aligned to some global time to prevent all me
 
 # Uplinks and downlinks
 Uplinks of a node are nets. Optionally, nodes may serve as up/down-links to each other.
+
 Uplinks of a net are zones and other nets. Downlinks are nodes and other nets.
+
 Uplinks of a zone are other zones. Downlinks are nets and other zones.
 
 # Discovery
